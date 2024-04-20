@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D3CBBF72BCC68B900CAC68C /* TranspilerOutput.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D3CBBF62BCC68B900CAC68C /* TranspilerOutput.swift */; };
+		3D3CBBF92BCCB1B500CAC68C /* Clothing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D3CBBF82BCCB1B500CAC68C /* Clothing.swift */; };
 		3D623B482BCB474900AE703E /* ReplicationProjectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D623B472BCB474900AE703E /* ReplicationProjectApp.swift */; };
 		3D623B4A2BCB474900AE703E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D623B492BCB474900AE703E /* ContentView.swift */; };
 		3D623B4C2BCB474B00AE703E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D623B4B2BCB474B00AE703E /* Assets.xcassets */; };
@@ -34,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3D3CBBF62BCC68B900CAC68C /* TranspilerOutput.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TranspilerOutput.swift; sourceTree = "<group>"; };
+		3D3CBBF82BCCB1B500CAC68C /* Clothing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Clothing.swift; sourceTree = "<group>"; };
 		3D623B442BCB474900AE703E /* ReplicationProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ReplicationProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D623B472BCB474900AE703E /* ReplicationProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplicationProjectApp.swift; sourceTree = "<group>"; };
 		3D623B492BCB474900AE703E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -98,6 +102,8 @@
 				3D623B492BCB474900AE703E /* ContentView.swift */,
 				3D623B4B2BCB474B00AE703E /* Assets.xcassets */,
 				3D623B4D2BCB474B00AE703E /* Preview Content */,
+				3D3CBBF62BCC68B900CAC68C /* TranspilerOutput.swift */,
+				3D3CBBF82BCCB1B500CAC68C /* Clothing.swift */,
 			);
 			path = ReplicationProject;
 			sourceTree = "<group>";
@@ -257,6 +263,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D3CBBF72BCC68B900CAC68C /* TranspilerOutput.swift in Sources */,
+				3D3CBBF92BCCB1B500CAC68C /* Clothing.swift in Sources */,
 				3D623B4A2BCB474900AE703E /* ContentView.swift in Sources */,
 				3D623B482BCB474900AE703E /* ReplicationProjectApp.swift in Sources */,
 			);
